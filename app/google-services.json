@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943588909699",
+    "project_id": "finance-help-av3",
+    "storage_bucket": "finance-help-av3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943588909699:android:5e8e82a39e5db6bfd671b6",
+        "android_client_info": {
+          "package_name": "com.example.trabfinalfinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943588909699-riqrgbhih49huh223tuiodp6d4ia0oum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6_uVxcVOv1eNzl0l650VDJRXrKBAL_z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943588909699-riqrgbhih49huh223tuiodp6d4ia0oum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

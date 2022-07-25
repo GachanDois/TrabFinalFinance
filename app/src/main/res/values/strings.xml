@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">trabfinalfinance</string>
+    <string name="form_is_required_error">Este campo deve ser preenchido</string>
+    <string name="login_error_message">Usuário ou senha inválidos</string>
+    <string name="nome_da_receita_despesa">Nome da Receita/Despesa</string>
+    <string name="nova_receita_despesa">Nova Receita/Despesa</string>
+    <string name="valor">Valor</string>
+    <string name="receita">Receita</string>
+    <string name="despesa">Despesa</string>
+    <string name="salvar">Salvar</string>
+</resources>
